@@ -1,0 +1,7 @@
+{
+  "name": " Nexus IQ: 5M Business Strategist",
+  "description": "An ultra-intelligent business analysis platform that identifies fatal gaps and engineers perfect solutions for any business idea or document.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
